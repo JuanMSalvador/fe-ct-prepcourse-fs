@@ -1,0 +1,36 @@
+body{
+    background-color: violet;
+}
+
+.title {
+    font-size: 3em;
+    color: crimson;
+}
+
+.logo{
+    width: 200px;
+}
+
+.cards {
+        border: 2px solid black;
+        width: fit-content;
+        padding: 0px 1em 1em 1em;
+        border-radius: 10%;
+        transition: 1s;
+} 
+
+.cards:hover{
+    background-color: rgb(218, 99, 139);
+
+}
+
+#principal {
+    font-size: 4.5em;
+}
+
+#titulos{
+    border: 2px solid black;
+    width: 60vw;
+    margin: auto;
+    padding: 3em;
+}
